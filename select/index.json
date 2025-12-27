@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "曇りのち",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-27T14:31:45.214017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "曇りのち - Kumori Nochi",
+      "artist": "Saucy Dog",
+      "has_synced": true,
+      "path": "select/01_曇りのち_-_Kumori_Nochi_Saucy_Dog.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "曇りのち",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_曇りのち_Saucy_Dog.txt"
+    }
+  ]
+}
